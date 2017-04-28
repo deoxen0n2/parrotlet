@@ -1,0 +1,18 @@
+export default {
+  sendOptions: {
+    to: '+xxxxxxxxxx'
+  },
+
+  twilio: {
+    accountSid: 'account_sid_here',
+    authToken: 'auth_token_here',
+    from: 'from_phone_number_here'
+  },
+
+  wavecell: {
+    accountId: 'account_id_here',
+    subAccountId: 'sub_account_id_here',
+    password: 'password_here',
+    source: 'source_here'
+  }
+}
