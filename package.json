@@ -5,6 +5,10 @@
   "main": "lib/index.js",
   "author": "Saran Siriphantnon",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/deoxen0n2/parrotlet"
+  },
   "scripts": {
     "compile": "babel src -d lib",
     "prepublish": "yarn compile",
